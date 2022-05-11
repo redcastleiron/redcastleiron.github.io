@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Dev Trouble Shootings Guide
-subtitle: 개발시 겪었던 TSG
+title: First Post
+subtitle: First Post
 author: Seongcheol Hong
 categories: blog
 #tags: blog jekyll
